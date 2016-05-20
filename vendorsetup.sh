@@ -1,3 +1,0 @@
-add_lunch_combo aosp_a7lte-eng
-add_lunch_combo aosp_a7lte-user 
-add_lunch_combo aosp_a7lte-userdebug
